@@ -1,4 +1,4 @@
-/ Jenkinsfile
+// Jenkinsfile
 pipeline {
     // Agent configuration:
     // This pipeline will run inside a Docker container that has Docker CLI.
